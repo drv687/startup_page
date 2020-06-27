@@ -1,0 +1,45 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px; 
+    font-weight: bold; 
+  color: #280563;
+}
+
+div.img-holder{
+    float: right;
+    margin: 0px;
+    width: 38%;
+    align-content: center;
+ }
+
+ div.btn-helper{
+     text-align: center; 
+ }
+img.responsive {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    padding: 4%;
+    display: block;
+    align-items: center;
+ }
+
+body{
+    background-color:#52C3A1
+}
+
+p.text{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    float: left;
+}
+
+.button{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
